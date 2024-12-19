@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+/* <!--  Yoga home page --> */
+.bg_container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    text-align: center;
+}
+
+.main_heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #253263;
+    font-family: Roboto;
+    padding: 58px;
+}
+
+.girl_img {
+    height: 40vh;
+    width: 260px;
+    margin-top: 160px;
+
+}
+
+.paragraph {
+    font-size: 13px;
+    font-family: Roboto;
+    color: #323f4b;
+    font-weight: normal;
+}
+
+.getstarted_button {
+    font-size: 10px;
+    background-color: #253263;
+    color: #fad693;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Types of yoga page */
+.bg_container {
+    background-color: #ffedcb;
+    background-size: cover;
+
+}
+
+.girl_image {
+    height: 40vh;
+    width: 40vh;
+    margin-top: 40px;
+}
+
+.yoga_pose_image {
+    height: 80px;
+    width: 100px;
+
+}
+
+.types_of_yoga_headline {
+    color: #132d84;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+
+
+}
+
+.yoga_names {
+    color: #253263;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 5px;
+    padding: 0px;
+    margin-top: 0px;
+
+}
+
+.yoga_description {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 5px;
+    padding: 0px;
+}
+
+.yoga_card {
+    height: 150px;
+    width: 490px;
+    background-color: #ffe2ab;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.back_button {
+    background-color: #132d84;
+    color: #ffe2ab;
+    border-radius: 5px;
+    font-size: 12px;
+    height: 30px;
+    width: 60px;
+    margin: 5px;
+    border-width: 0px;
+}
